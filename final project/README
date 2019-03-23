@@ -1,0 +1,5 @@
+1,python代码是在script里的data analysis.ipynb.my-xgboost-trainning.py,参考的原型代码是otherpeople-github-trainning.py
+2.毕业论文是report.pdf
+3.最终模型训练时间大概是3分钟以内（CPU：i7-8750H,内存：16GB）
+4.预测结果保存在submission-0.11364提交
+5.使用了xgboost库，其他均为anaconda里自带库。
